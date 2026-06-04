@@ -169,7 +169,7 @@ function App() {
     <div className="App">
       {/* Navbar */}
       <nav className="navbar">
-        <h1>🛒 Comfy-Cart</h1>
+        <h1>🛒 ComfyCart</h1>
 
         <div className="user-section">
           <span className="welcome-text">
