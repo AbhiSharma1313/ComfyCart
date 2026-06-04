@@ -118,7 +118,7 @@ def update_product(
     return product
 
 
-# User AUTH 
+# Here starts code for User AUTH 
 
 # Signup
 @app.post("/signup")
